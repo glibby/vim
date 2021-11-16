@@ -9,6 +9,7 @@ syntax on
 set encoding=utf-8
 set tabstop=4
 set shiftwidth=4
+set colorcolumn=80
 set smartindent
 set expandtab
 
